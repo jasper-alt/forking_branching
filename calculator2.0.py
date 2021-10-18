@@ -5,7 +5,10 @@ def sub(x,y):
     return x - y
 
 # here mer makes mul and div
-
+def mul(x,y):
+    return x * y
+def div(x, y):
+    return x/y
 def main():
     no1 = int(input("Fill in a number: "))
     no2 = int(input("Fill in a second number: "))
