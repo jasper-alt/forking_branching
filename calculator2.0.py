@@ -23,4 +23,4 @@ def main():
         print("run the script again with a valid operator!")
 main()
 
-print("test if merge is successful")
+print("test")
